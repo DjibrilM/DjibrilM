@@ -20,10 +20,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DjibrilM/count.svg?"  />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋</h1>
